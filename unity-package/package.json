@@ -1,0 +1,16 @@
+{
+  "name": "com.dsh.unity-bridge",
+  "version": "0.1.0",
+  "displayName": "DSH Unity Bridge",
+  "description": "零第三方依赖的 HTTP 桥接层：让 DSH Agent 直接驱动 Unity 编辑器（读场景、建对象、改组件、截图、存场景）。不依赖 Newtonsoft / EditorCoroutines，不依赖 Unity 6。",
+  "unity": "2022.3",
+  "keywords": [
+    "ai",
+    "agent",
+    "automation",
+    "editor"
+  ],
+  "author": {
+    "name": "DSH"
+  }
+}
