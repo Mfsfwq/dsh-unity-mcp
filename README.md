@@ -205,3 +205,7 @@ git push <新仓库地址> plugin-standalone:main
 
 > 独立仓库里记得一起带上 `unity-package/Editor/*.meta` —— Unity 靠 `.meta` 的 guid 认资源，
 > 漏了会导致首次导入时 guid 重排。本仓库的 `.meta` 已在版本控制里。
+
+## 许可
+
+[MIT](LICENSE)。随便用、随便改、随便商用，保留版权声明即可。
