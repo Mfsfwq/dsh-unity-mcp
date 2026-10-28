@@ -5,6 +5,8 @@
 **零第三方依赖**：Unity 侧只用 BCL（`TcpListener` + 手写最小 HTTP + 自带 JSON），DSH 侧只用 Node 内置 `http`。
 不依赖 Newtonsoft / EditorCoroutines，**不依赖 Unity 6**，也不需要 `com.unity.pipeline` —— 2022.3 就能跑。
 
+> 上游仓库：<https://github.com/Mfsfwq/dsh-unity-mcp>（本目录是它的源）
+
 ## 为什么不用 mcp-unity / 官方 Unity CLI
 
 | 方案 | 问题 |
